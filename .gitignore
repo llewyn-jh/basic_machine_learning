@@ -38,7 +38,8 @@ ipython_config.py
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -343,5 +344,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# etc
+*.h5
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,pycharm,macos,jupyternotebooks,python,windows
