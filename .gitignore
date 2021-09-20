@@ -347,5 +347,6 @@ $RECYCLE.BIN/
 
 # etc
 *.h5
+*.png
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,pycharm,macos,jupyternotebooks,python,windows
